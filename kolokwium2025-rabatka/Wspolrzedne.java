@@ -7,6 +7,6 @@ public class Wspolrzedne {
         this.y = y;
     }
 
-    public getX(){ return x; }
-    public getY(){ return y; }
+    public int getX(){ return x; }
+    public int getY(){ return y; }
 }
